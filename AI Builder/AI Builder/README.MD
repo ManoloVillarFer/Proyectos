@@ -2,6 +2,7 @@ He usado la opción de extrar las palabras y frases más relevantes del texto, p
 ![1.png](capturas/1.png)
 
 Le doy a la opción Analizar Texto, y me dice que las siguientes palabras son las más relevantes:
+
 famoso Feliciano de Silva,cincuenta años,complexión recia,rocín flaco,famoso hidalgo,
 añadidura,condición,salpicón,narración,afición,administración,Capítulo,don Quijote
 galgo corredor,Una olla,sábados,tres partes,días,gran madrugador,caballerías,muchas hanegas
