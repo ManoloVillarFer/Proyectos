@@ -1,6 +1,6 @@
-Disfruta de esta aplicación para contar dedos con mediapipe
+# Disfruta de esta aplicación para contar dedos con mediapipe
 
-Los pasos que debes seguir para ejecutarla son:
+# Los pasos que debes seguir para ejecutarla son:
 
 1. Descargala y descomprimirla.
 
