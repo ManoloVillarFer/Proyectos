@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OpenALPR Web App - Resultado</title>
+</head>
+<body>
+    <h1>OpenALPR Web App - Resultado</h1>
+    {% if plate %}
+    <p>Matrícula: {{ plate }}</p>
+    {% endif %}
+    {% if region %}
+    <p>Región: {{ region }}</p>
+    {% endif %}
+    {% if name %}
+    <p>Marca: {{ name }}</p>
+    {% endif %}
+    {% if model %}
+    <p>Modelo: {{ model }}</p>
+    {% endif %}
+    {% if color %}
+    <p>Color: {{ color }}</p>
+    {% endif %}
+    <p><a href="/">Volver</a></p>
+</body>
+</html>

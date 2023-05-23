@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OpenALPR Web App</title>
+</head>
+<body>
+    <h1>OpenALPR Web App</h1>
+    <form action="/" method="POST" enctype="multipart/form-data">
+        <label for="api_key">API Key:</label>
+        <input type="text" id="api_key" name="api_key" required>
+        <br>
+        <label for="image">Image:</label>
+        <input type="file" id="image" name="image" accept="image/*" required>
+        <br>
+        <input type="submit" value="Enviar">
+    </form>
+    {% if error %}
+    <p>Error: {{ error }}</p>
+    {% endif %}
+</body>
+</html>
